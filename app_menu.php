@@ -1,0 +1,32 @@
+<?php
+
+	$y=0;
+	$apps[$x]['menu'][$y]['title']['en-us'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['en-gb'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['ar-eg'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['de-at'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['de-ch'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['de-de'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['es-cl'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['es-mx'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['fr-ca'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['fr-fr'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['he-il'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['it-it'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['ka-ge'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['nl-nl'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['pl-pl'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['pt-br'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['pt-pt'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['ro-ro'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['sv-se'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Yealink RPS";
+	$apps[$x]['menu'][$y]['uuid'] = "f1a2b3c4-5d6e-4f7a-8b9c-1d2e3f4a5b6c";
+	$apps[$x]['menu'][$y]['parent_uuid'] = "594d99c5-6128-9c88-ca35-4b33392cec0f";
+	$apps[$x]['menu'][$y]['category'] = "internal";
+	$apps[$x]['menu'][$y]['icon'] = "fa-solid fa-phone-volume";
+	$apps[$x]['menu'][$y]['path'] = "/app/yealink_rps/yealink_rps.php";
+	$apps[$x]['menu'][$y]['order'] = "";
+	$apps[$x]['menu'][$y]['groups'][] = "superadmin";
+	$apps[$x]['menu'][$y]['groups'][] = "admin";
