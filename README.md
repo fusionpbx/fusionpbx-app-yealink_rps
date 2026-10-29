@@ -16,3 +16,12 @@ The upgrade step creates menu, permisisons and registers the default settings.
 After updating the menu you will find Yealink RPS under Advanced.
 
 Menu -> Advanced -> Yealink RPS
+
+## Status
+
+Still under development but it will allow syncing Servers and Devices to Yealink's RPS.
+
+## Requirements
+
+Account to login in to the following URL.
+- https://ymcs.yealink.com
